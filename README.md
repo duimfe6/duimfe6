@@ -20,6 +20,5 @@ I am currently starting my journey in the world of programming, focusing on mast
 
 ### 📬 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/wesley-santos-a39391254/)
-* [email] (https://www.linkedin.com/mypreferences/d/manage-email-addresses)
 
 *"The best way to predict the future is to create it."*
