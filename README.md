@@ -8,11 +8,10 @@ I am currently starting my journey in the world of programming, focusing on mast
 ---
 
 ### 🔍 Detalhes e Objetivos
-- 🔭 **Atualmente:** estudando em projetos de [da ebac]
-- 🌱 **Estudando:** Aprofundando meus conhecimentos em **[js,html,css]** e **[c++]**
+- 🔭 **Atualmente:** estudando em projetos da ebac
+- 🌱  Aprofundando meus conhecimentos em **[js,html,css]** e **[c++]**e back end e front end
 - 🎯 **Objetivo:** Buscando minha primeira oportunidade como [ Dev Junior]
-- 💬 **Pergunte-me sobre:** HTML, CSS, JavaScript e o que mais eu puder ajudar!
-- 📫 **Contato:** Você pode me enviar uma mensagem pelo [LinkedIn](https://www.linkedin.com/in/wesley-santos-a39391254/)
+
 
 ---
 
