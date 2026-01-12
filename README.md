@@ -8,7 +8,6 @@ I am currently starting my journey in the world of programming, focusing on mast
 
 
 ### 📬 How to reach me:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wesley-santos-a39391254/)
 
 <p align="left">
 <a href="https://www.linkedin.com/in/wesley-santos-a39391254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
