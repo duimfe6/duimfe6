@@ -4,6 +4,8 @@
 
 I am currently starting my journey in the world of programming, focusing on mastering **JavaScript**. My goal is to become a **Full Stack Developer**, building both amazing user interfaces (Front-end) and robust server-side logic (Back-end).
 
+### Detalhes
+
 ---[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=duimfe6&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 
