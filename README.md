@@ -20,7 +20,12 @@
 ### 🛠 Minha Stack de Tecnologias:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,react,nodejs,mysql,git,github,vscode" />
   </a>
 </p>
 
+### 📊 Estatísticas
+<p align="left">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=duimfe6&show_icons=true&theme=radical" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duimfe6&layout=compact&langs_count=7&theme=radical" />
+</p>
