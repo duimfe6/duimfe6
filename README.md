@@ -25,8 +25,5 @@
 </p>
 
 ### 📊 Estatísticas
-<p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=COLOQUE-SEU-USER-AQUI&show_icons=true&theme=radical" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=COLOQUE-SEU-USER-AQUI&layout=compact&langs_count=7&theme=radical" />
-</p>
+![Status do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=COLOQUE-SEU-USER-AQUI&theme=radical)
 ---
