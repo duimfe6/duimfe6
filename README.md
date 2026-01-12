@@ -5,7 +5,16 @@
 I am currently starting my journey in the world of programming, focusing on mastering **JavaScript**. My goal is to become a **Full Stack Developer**, building both amazing user interfaces (Front-end) and robust server-side logic (Back-end).
 
 ### Detalhes
+---
 
+### 🔍 Detalhes e Objetivos
+- 🔭 **Atualmente:** estudando em projetos de [da ebac]
+- 🌱 **Estudando:** Aprofundando meus conhecimentos em **[js,html,css]** e **[c++]**
+- 🎯 **Objetivo:** Buscando minha primeira oportunidade como [ Dev Junior]
+- 💬 **Pergunte-me sobre:** HTML, CSS, JavaScript e o que mais eu puder ajudar!
+- 📫 **Contato:** Você pode me enviar uma mensagem pelo [LinkedIn](https://www.linkedin.com/in/wesley-santos-a39391254/)
+
+---
 
 ### 📬 How to reach me:
 
