@@ -6,7 +6,7 @@ I am currently starting my journey in the world of programming, focusing on mast
 
 ### Detalhes
 
----[![duimfe6 GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=duimfe6&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![duimfe6 GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=duimfe6&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 
 ### 📬 How to reach me:
