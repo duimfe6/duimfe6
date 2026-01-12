@@ -17,7 +17,7 @@ I am currently starting my journey in the world of programming, focusing on mast
 ### Minha Stack de Tecnologias:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,mysql,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,github,vscode" />
   </a>
 </p>
 *"The best way to predict the future is to create it."*
