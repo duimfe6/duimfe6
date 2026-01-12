@@ -1,31 +1,31 @@
-# Hi there, I'm [wesley]! 👋
+# Olá, eu sou o Wesley Santos! 👋
 
-## 🚀 Junior Full Stack Student | JavaScript Specialist in progress
+### 🔗 Conecte-se comigo:
+<p align="left">
+<a href="https://www.linkedin.com/in/wesley-santos-a39391254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://www.instagram.com/SEU_INSTA" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
 
-I am currently starting my journey in the world of programming, focusing on mastering **JavaScript**. My goal is to become a **Full Stack Developer**, building both amazing user interfaces (Front-end) and robust server-side logic (Back-end).
-
-### Detalhes
 ---
 
 ### 🔍 Detalhes e Objetivos
-- 🔭 **Atualmente:** estudando em projetos da ebac
-- 🌱  Aprofundando meus conhecimentos em **[js,html,css]** e **[c++]**e back end e front end
-- 🎯 **Objetivo:** Buscando minha primeira oportunidade como [ Dev Junior]
-
+- 🔭 **Atualmente:** Desenvolvendo projetos para fortalecer meu portfólio.
+- 🌱 **Estudando:** Aprofundando meus conhecimentos em **JavaScript, HTML, CSS e C++**.
+- 🚀 **Foco:** Evoluindo tanto no **Front-end** quanto no **Back-end** (Full Stack).
+- 🎯 **Objetivo:** Buscando minha primeira oportunidade na área de tecnologia.
+- 📫 **Contato:** Você pode me enviar uma mensagem pelo [LinkedIn](https://www.linkedin.com/in/wesley-santos-a39391254/)
 
 ---
 
-### 📬 How to reach me:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/wesley-santos-a39391254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://www.instagram.com/SEU_USUARIO_AQUI" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</p>
-
-### Minha Stack de Tecnologias:
+### 🛠 Minha Stack de Tecnologias:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,react,nodejs,mysql,git,github,vscode" />
   </a>
 </p>
-*"The best way to predict the future is to create it."*
+
+### 📊 Estatísticas
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=radical" />
+
+---
