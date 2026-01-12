@@ -14,4 +14,10 @@ I am currently starting my journey in the world of programming, focusing on mast
 <a href="https://www.instagram.com/SEU_USUARIO_AQUI" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 
+### Minha Stack de Tecnologias:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,mysql,git,github,vscode" />
+  </a>
+</p>
 *"The best way to predict the future is to create it."*
