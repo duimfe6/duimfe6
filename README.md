@@ -27,8 +27,3 @@
   </a>
 </p>
 
-### 📊 Estatísticas / Stats
-<p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=duimfe6&show_icons=true&theme=radical" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duimfe6&layout=compact&langs_count=7&theme=radical" />
-</p>
