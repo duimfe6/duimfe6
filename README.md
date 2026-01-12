@@ -8,6 +8,5 @@ I am currently starting my journey in the world of programming, focusing on mast
 
 
 ### 📬 How to reach me:
-* [LinkedIn](https://www.linkedin.com/in/wesley-santos-a39391254/)
-
+[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](https://www.linkedin.com/in/wesley-santos-a39391254/)
 *"The best way to predict the future is to create it."*
