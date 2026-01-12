@@ -25,7 +25,8 @@
 </p>
 
 ### 📊 Estatísticas
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=radical" />
-
+<p align="left">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=COLOQUE-SEU-USER-AQUI&show_icons=true&theme=radical" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=COLOQUE-SEU-USER-AQUI&layout=compact&langs_count=7&theme=radical" />
+</p>
 ---
