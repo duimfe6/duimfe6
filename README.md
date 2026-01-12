@@ -20,7 +20,7 @@
 ### 🛠 Minha Stack de Tecnologias:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,react,nodejs,mysql,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,git,github,vscode" />
   </a>
 </p>
 
