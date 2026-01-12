@@ -25,5 +25,5 @@
 </p>
 
 ### 📊 Estatísticas
-![Status do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=COLOQUE-SEU-USER-AQUI&theme=radical)
+![Status do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=COLOQUE-SEU-USERduimfe6&theme=radical)
 ---
